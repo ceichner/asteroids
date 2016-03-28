@@ -1,0 +1,8 @@
+|----------------------------------|
+| Downloadable Game Client         |
+|(Press enter for defaults)        |
+|                                  |
+|Default account:                  |
+|  Username: TestAdmin             |
+|  Password: PixarGoodGhibliBETTER |
+|----------------------------------|
